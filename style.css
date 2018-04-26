@@ -1,6 +1,6 @@
 body{
     background-image: url("https://i.ytimg.com/vi/pAYniJtEO1I/maxresdefault.jpg")
-    background-repeat: no-repeat;
+    
 }
 h1{
 font-family: "Comic Sans MS", cursive, sans-serif;
@@ -8,4 +8,5 @@ color:blue'
 }
 p{
 font-family: "Comic Sans MS", cursive, sans-serif;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/101/237/non_2x/free-abstract-background-11-vector.jpg")
 }
