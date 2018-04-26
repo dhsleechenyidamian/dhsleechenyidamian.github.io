@@ -1,5 +1,6 @@
-h1{
+body{
     background-image: url("https://i.ytimg.com/vi/pAYniJtEO1I/maxresdefault.jpg")
+    background-repeat: no-repeat;
 }
 h1{
 font-family: "Comic Sans MS", cursive, sans-serif;
